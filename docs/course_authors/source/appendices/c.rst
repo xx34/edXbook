@@ -7,7 +7,7 @@
 附录 C: 学生登录指南示例
 ======================================
 
-创建一个登录指南给您的个别课程。
+为您的部分课程创建一个登录指南。
 
  **[COURSE NUMBER] 的学生登录指南** 
 
@@ -29,7 +29,7 @@
     https://edge.edx.org/courses/edX/PHOTO101/Digital_SLR_Photography_101/about
 
 
-上面的URL应带您进入课程注册页面: [REPLACE WITH SCREENSHOT OF YOUR REGISTRATION PAGE]
+上面的URL链接至课程注册页面: [REPLACE WITH SCREENSHOT OF YOUR REGISTRATION PAGE]
 
 *例子*
 
@@ -45,7 +45,7 @@
 .. image:: ../Images/image303.png
  :width: 600 
 
-一个弹出式使用者证明视窗将会出现。它将要求您去登录或报名edX。 (如果您已经有一个edX帐号，使用它来登录。 您现在应该已经注册到这个课程。跳至步骤5。否则，继续步骤3。)
+之后会弹出一个使用者验证窗口，要求您登录或报名edX。 (如果您已经有一个edX帐号，使用它来登录。 您现在应该已经注册到这个课程。跳至步骤5。否则，继续步骤3。)
 
 .. image:: ../Images/image305.png
  :width: 600 
@@ -53,24 +53,24 @@
 
 **步骤 3: 创建您的edX帐号**
 
-在弹出的视窗中填写表格: (一些小提示: 使用一个您经常查看的电子邮件地址。 并且，您选择的使用者名称也会将是您在课程中显示的名字。 这代表这是我们唯一会知道的使用者名称 (不是一个名和姓)。 请将您的姓包含在您的使用者名称中，如此一来我们才可以在forums上说您是哪位。)
+在弹出的窗口中填写表格: (小提示: 使用一个您经常使用的电子邮件地址。 同时，您选择的用户名也会将是您在课程中显示的名字。 这代表这是我们唯一了解的使用者名称 (不是一个名和姓)。 请将您的姓包含在您的用户名中，如此一来我们才可以在forums上说明您的身份。)
 
 
 **步骤 4: 启动您的edX帐号**
 
-检查您的邮件。课程验证链接会被送到这个地方。 您必须点击这个链接来确定您的课程存取。
+检查您的邮件，这里会出现您课程的验证链接。 您必须点击这个链接来确定您的课程被记录。
 
-恭喜! 您现在应该有一个edX帐号并且注册在[ENTER YOUR COURSE NUMBER]。
+恭喜! 您现在已经拥有一个edX帐号并且注册在[ENTER YOUR COURSE NUMBER]。
 
-继续步骤5来存取课程教材。
+继续步骤5来保存课程教材。
 
 
 **步骤 5: 登录到edX和课程网站**
 
 登录您在edX上的帐号 https://edge.edx.org/
-使用您刚创建的使用者名称和密码。
-您将会被带到您edX edge帐户的主要页面，现在应该包含一个[ENTER YOUR COURSE NUMBER]列表 : [REPLACE WITH SCREENSHOT OF YOUR COURSE]
+使用您刚创建的用户名和密码。
+您将会被链接至您edX edge帐户的主页，其中应该包含一个[ENTER YOUR COURSE NUMBER]列表 : [REPLACE WITH SCREENSHOT OF YOUR COURSE]
 
-您现在可以点击 **View Courseware** 来进入主要课程网站。
+您现在可以点击 **View Courseware** 来进入主课程网站。
 
-如果您在注册或存取课程网站时遇到问题，请联络[SUPPORT CONTACT NAME] at [CLASS SUPPORT EMAIL].
+如果您在注册或保存课程网站时遇到问题，请联络[SUPPORT CONTACT NAME] at [CLASS SUPPORT EMAIL].
