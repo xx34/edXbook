@@ -29,7 +29,7 @@
     https://edge.edx.org/courses/edX/PHOTO101/Digital_SLR_Photography_101/about
 
 
-上面的URL链接至课程注册页面: [REPLACE WITH SCREENSHOT OF YOUR REGISTRATION PAGE]
+上面的URL链接是课程注册页面: [REPLACE WITH SCREENSHOT OF YOUR REGISTRATION PAGE]
 
 *例子*
 
@@ -58,7 +58,7 @@
 
 **步骤 4: 启动您的edX帐号**
 
-检查您的邮件，这里会出现您课程的验证链接。 您必须点击这个链接来确定您的课程被记录。
+检查您的邮件，这里会出现您课程的验证链接。 您必须点击这个链接来确保您的课程被记录。
 
 恭喜! 您现在已经拥有一个edX帐号并且注册在[ENTER YOUR COURSE NUMBER]。
 
@@ -69,7 +69,7 @@
 
 登录您在edX上的帐号 https://edge.edx.org/
 使用您刚创建的用户名和密码。
-您将会被链接至您edX edge帐户的主页，其中应该包含一个[ENTER YOUR COURSE NUMBER]列表 : [REPLACE WITH SCREENSHOT OF YOUR COURSE]
+您的页面将会跳转至您edX edge帐户的主页，其中应该包含一个[ENTER YOUR COURSE NUMBER]列表 : [REPLACE WITH SCREENSHOT OF YOUR COURSE]
 
 您现在可以点击 **View Courseware** 来进入主课程网站。
 
