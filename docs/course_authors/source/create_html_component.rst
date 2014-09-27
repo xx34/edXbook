@@ -5,7 +5,7 @@
     .. image:: Images/C07_01.png
 
 HTML 组件是最基本的组件类型，可用于创建以文字为主的课程。
-例如文字、清单、链接、图片等内容到单元中。 
+例如添加文字、清单、链接、图片等内容到单元中。 
 例如，您可以在问题组件中使用这些组件来增加解释文字，您也可使用 HTML 组件在您的课程中插入 LaTeX 源代码。
 
 HTML 编辑器有两种显示模式: **可视化** 以及 **代码**
@@ -15,7 +15,7 @@ HTML 编辑器有两种显示模式: **可视化** 以及 **代码**
 
 .. note::
 
-  当 HTML 源代码被保存时，Studio 将在渲染前先行处理结果。
+  当 HTML 源代码被保存时，Studio 将在更改前先行处理结果。
   如果您改变了显示模式设置，则该设置将在您保存并重新打开 HTML 编辑器后才生效。
   在“可视化”模式下的 HTML 编辑器的工具栏最右侧有 **HTML** 按钮，点击该按钮可以弹出 **HTML 源代码** 编辑界面，通过这种方式您可以便捷地在“可视化”及“代码”之间切换来确认您创建的组件看起来与您预期的一样。
 
@@ -54,7 +54,7 @@ HTML 编辑器有两种显示模式: **可视化** 以及 **代码**
 
 2. 点击 **编辑** 。
 
-  在弹出的 HTML 编辑器中，用您要发表的内容取代模板里的文字。
+  在弹出的 HTML 编辑器中，用您要发表的内容替换模板里的文字。
 
 .. note::
 
@@ -84,18 +84,18 @@ HTML 编辑器有两种显示模式: **可视化** 以及 **代码**
 
 	<p><a href="[URL OF FILE]">[LINK TEXT]</a></p>
 
-例如，要创建链接连到 “About” 页面的 HTML 样式的文件，其 URL 是
+例如，要创建链接到 “About” 页面的 HTML 样式的文件，其 URL 是
 /c4x/edX/edX101/asset/AboutPage_Template.txt, 
 则请输入以下的源代码： ::
 
   <p><a href="/c4x/edX/edX101/asset/AboutPage_Template.txt">HTML Template for
   <the "About" page</a></p>
 
-要创建连到您已上传的图片的链接，请按照以下句法输入， **URL OF FILE** 是您上传文件到 **文件&上传** 页面的第5个步骤中记下的 URL， **LINK TEXT** 是使用者所看到可以按下的文字链接要显示的文字。 ::
+要创建连接到您已上传的图片的链接，请按照以下句法输入， **URL OF FILE** 是您上传文件到 **文件&上传** 页面的第5个步骤中记下的 URL， **LINK TEXT** 是使用者所看到可以按下的文字链接要显示的文字。 ::
 
   <p><img src="[URL OF FILE]"/></p>
 
-例如，当您要建立一个链接连到 CourseImage.jpg，您记下的 URL 为
+例如，当您要创建一个链接连到 CourseImage.jpg，您记下的 URL 为
 /c4x/edX/edX101/asset/CourseImage.jpg
 则请输入以下的源代码： ::
 
@@ -114,7 +114,7 @@ HTML 编辑器有两种显示模式: **可视化** 以及 **代码**
   \newpage %
   
 
-链接到课程单元
+连接到课程单元
 ============
 
 要引导学生到您课程中的特定位置，您必须要增加一个HTML链接到特定单元，请参考下列步骤：
@@ -149,7 +149,7 @@ c. 复制域名之后“about”之前的 URL (包含最后面的 "/")，如下�
 
 .. note::
 
-  要找到位置 ID，在 Studio 中打开要链接到的单元页面，在页面右侧 **单元位置** 区域有该单元的位置 ID 。
+  要找到位置 ID，在 Studio 中打开要连接到的单元页面，在页面右侧 **单元位置** 区域有该单元的位置 ID 。
   或者通过URL分离位置 ID ，注意浏览器地址栏中的 URL 。 
   位置 ID 为结束编辑后的URL，请见以下范例。
 
@@ -204,15 +204,15 @@ c. 复制域名之后“about”之前的 URL (包含最后面的 "/")，如下�
 .. image:: Images/image085.png
   :width: 800
 
-4. 在开启的 **High Level Source Editing** 画面中，以您的 LaTeX 源代码取代模板代码。
+4. 在开启的 **High Level Source Editing** 画面中，以您的 LaTeX 源代码替换模板代码。
 
 .. image:: Images/image087.png
   :width: 800
 
-5. 点击 **Save and compile to edX XML** 以转换 LaTeX 源代码到 edX XML 代码。
+5. 点击 **Save and compile to edX XML** 以更换 LaTeX 源代码到 edX XML 代码。
 
 .. note::
 
-  Studio 使用第三方 LaTeX 处理器来转换 LaTeX 代码到 XML，LaTeX 处理器必须是在启动中的状态才能使用。
+  Studio 使用第三方 LaTeX 处理器来更换 LaTeX 代码到 XML，LaTeX 处理器必须是在启动中的状态才能使用。
 
 6. 点击 **保存** ，检查您新建的组件是否看起来跟您预想的一样。
