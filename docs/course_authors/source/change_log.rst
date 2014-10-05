@@ -15,5 +15,7 @@
 4/9/13          Changed order of sections (moved “Create a Lesson in Studio” after “Create a New Course”) Added content to “Export or Import a Course,”Create Lesson,” “Create Schedule,” and Upload a File to the "Files & Updates Page” sections. Revised “Add an Announcement" or Update"				   		section.
 
 3/22/13			Revised “Add Manual Policy Data” section. Added “Appendix C: Time Zones”
+2014-9-27		北京信息科技大学ifLab开始简体中文化翻译
+2014-10-8		简体中文化翻译初步完成
 ==============  ================================================================
 
