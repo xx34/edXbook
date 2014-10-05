@@ -45,7 +45,7 @@
 .. image:: ../Images/image303.png
  :width: 600 
 
-之后会弹出一个使用者验证窗口，要求您登录或报名edX。 (如果您已经有一个edX帐号，使用它来登录。 您现在应该已经注册到这个课程。跳至步骤5。否则，继续步骤3。)
+之后会弹出一个使用者验证窗口，要求您登录或注册edX。 (如果您已经有一个edX帐号，使用它来登录。 您现在应该已经注册到这个课程。跳至步骤5。否则，继续步骤3。)
 
 .. image:: ../Images/image305.png
  :width: 600 
@@ -73,4 +73,4 @@
 
 您现在可以点击 **View Courseware** 来进入主课程网站。
 
-如果您在注册或保存课程网站时遇到问题，请联络[SUPPORT CONTACT NAME] at [CLASS SUPPORT EMAIL].
+如果您在注册或保存课程网站时遇到问题，请联系[SUPPORT CONTACT NAME] at [CLASS SUPPORT EMAIL].
