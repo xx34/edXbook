@@ -4,7 +4,7 @@
 
 SlideShare提供了相当方便的分享功能，要将SlideShare的简报加入edX课程中，请参考下列步骤：
 
-1. 您可以选择SlideShare提供给您的嵌入专用程式码
+1. 您可以选择SlideShare提供给您的嵌入专用代码
 
 .. image:: images/share-01.png
 
@@ -13,7 +13,7 @@ SlideShare提供了相当方便的分享功能，要将SlideShare的简报加入
 .. image:: images/share-02.png
 .. image:: images/share-03.png
 
-3. 找到您要分享的档案之後，您可以看到画面上方有个”Embed”的按钮可以点选，点下後您会看到一段HTML语法，请复制下来
+3. 找到您要分享的档案之后，您可以看到画面上方有个”Embed”的按钮可以点击，点下之后您会看到一段HTML语法，请复制下来
 
 .. image:: images/share-04.png
 .. image:: images/share-05.png

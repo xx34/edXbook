@@ -15,7 +15,7 @@
 
 .. image:: images/reg-02.png
 
-3. 请到上一步骤所留下的电子邮件信箱中收取认证信
+3. 请到上一步骤所留下的电子邮件信箱中收取认证邮件
 
 .. image:: images/reg-03.png
 .. image:: images/reg-04.png
