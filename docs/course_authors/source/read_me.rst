@@ -7,7 +7,7 @@
 
   edx\edX-platform\userdocs\source
 
-任何 pull request 都会需要一个 edX 工程师的批准。而这份文件的 edX 联系人是mchang@edx.org 
+任何 pull request 都会需要 edX 工程师的批准。这份文件对应的 edX 工程师可以通过mchang@edx.org进行联系 
 
 简体中文版本由 **ifLab	** 维护，您可以在以下网址取得源代码 ::
 
