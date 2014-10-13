@@ -9,23 +9,23 @@
 
 任何 pull request 都会需要一个 edX 工程师批准。而这份文件的 edX 联系人是mchang@edx.org 
 
-正体中文版本由 **edX 平台开发研究实验室** 所维护，您可以在以下网址取得原始码 ::
+简体中文版本由 **ifLab	** 维护，您可以在以下网址取得源代码 ::
 
     https://github.com/edXPDRLab/manuals.git
 
-正体中文版本每次的更新都会公布於 edX 平台开发研究实验室的网站，您亦可於此处取得 PDF 版本文件 ::
+简体中文版本每次的更新都会公布于 edX 平台开发研究实验室的网站，您亦可于此处取得 PDF 版本文件 ::
 
 	http://edxpdrlab.logdown.com
 
-线上阅读版本与原始码是同步的 ::
+线上阅读版本与源代码是同步的 ::
 
 	http://edx-ca-zhtw.readthedocs.org/en/latest/index.html
 
 
-关於 edX 平台开发研究实验室
+关于ifLab edX 平台研究小组
 **************************
 
-edX 平台开发研究实验室由国立中央大学及国立中央大学资讯工程系所共同成立，专注於 edX/Open edX 平台开发与研究，同时负责 Open edX 正体中文语系版本的维护与协调工作。
+ifLab edX 平台研究小组是北京信息科技大学网络创新实践联盟下属的一个小组，专注于 edX/Open edX 平台开发与研究，同时负责 Open edX 简体中文版本的维护与协调工作。
 
 .. image:: Images/logo_ncu.png
 
