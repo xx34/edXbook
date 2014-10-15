@@ -15,7 +15,7 @@
 
 	http://edx-howto-slideshare.readthedocs.org/
 
-若您对本文有任何建议，欢迎您透过 GitHub 提交 issue 或是发送 pull request。
+若您对本文有任何建议，欢迎您通过 GitHub 提交 issue 或是发送 pull request。
 感谢您的协助，让这份文件内容更加完美。
 
 

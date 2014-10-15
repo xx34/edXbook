@@ -21,7 +21,7 @@
 
 .. image:: images/add-04.png
 
-5. 贴上您在SlideShare网站上取得的HTML语法
+5. 粘贴您在SlideShare网站上取得的HTML语法
 
 .. image:: images/add-05.png
 
