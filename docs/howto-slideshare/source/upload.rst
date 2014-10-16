@@ -4,7 +4,7 @@
 
 完成SlideShare帐号注册以后，您可以开始尝试上传文档至SlideShare中
 
-1. 登入SlideShare网站，点选画面中的”Upload”按钮
+1. 登入SlideShare网站，点击画面中的”Upload”按钮
 
 .. image:: images/upload-01.png
 

@@ -2,7 +2,7 @@
 读我
 ****
 
-这份 "edX 平台教学-如何上传简报至 SlideShare 并加入 edX 课程中" 文件是使用 Sphinx 1.2b1 和 LaTex 所创建的，
+这份 "edX 平台教学-如何上传简报至 SlideShare 并加入 edX 课程中" 的文件是使用 Sphinx 1.2b1 和 LaTex 所创建的，
 由 **edX 平台开发研究实验室** 所创作，您可以在以下网址取得源代码 ::
 
     https://github.com/edXPDRLab/manuals.git
