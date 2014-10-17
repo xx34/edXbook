@@ -2,9 +2,9 @@
 加入简报至edX课程
 #################
 
-要将上传至SlideShare的简报加入edX课程中，您需要用到HTML组件，将SlideShare提供的分享HTML语法加入至课程中。
+要将上传至SlideShare的简报加入edX课程中，您需要用到HTML组件，将SlideShare提供的分享HTML代码加入至课程中。
 
-1. 请先登入edX Studio课程编辑系统
+1. 请先登陆edX Studio课程编辑系统
 
 .. image:: images/add-01.png
 
@@ -21,14 +21,14 @@
 
 .. image:: images/add-04.png
 
-5. 贴上您於SlideShare网站上取得的HTML语法
+5. 粘贴您在SlideShare网站上取得的HTML代码
 
 .. image:: images/add-05.png
 
-   记得储存您的变更
+   记得保存您的变更
 
 .. image:: images/add-06.png
 
-   储存以後您会看到一个SlideShare的简报浏览画面，完成！
+   储存以后您会看到一个SlideShare的简报浏览画面，完成！
 
 .. image:: images/add-07.png
